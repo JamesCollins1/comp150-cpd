@@ -8,7 +8,7 @@ During this week I found my biggest problems occured in the group project. The m
 
 ### Week 2
 
-I feel by this week I had become comfortable working within Unreal's visula programming environment 'Blueprint'. This has sped up my rate of work greatly and has allowed me to help the rest of my team become comfortable within the environment too.
+I feel by this week I had become comfortable working within Unreal's visual programming environment 'Blueprint'. This has sped up my rate of work greatly and has allowed me to help the rest of my team become comfortable within the environment too.
 
 ### Week 3
 
@@ -32,5 +32,5 @@ During week 7, When I wasn't ill, I worked on Nebula Knights. During this week I
 
 ### Week 8 
 
-Week 8 was our "Show and Tell" day. I was meant to present our game with another team memeber, but due to illness I couldn't. This was very frustrating for me, and I think the hardest part of this week was dealing with this frustration. I felt like I'd let the team down, which to me, was a big problem. Althought eh talk went very well, it was annoying that I couldn't contribute to this.
+Week 8 was our "Show and Tell" day. I was meant to present our game with another team memeber, but due to illness I couldn't. This was very frustrating for me, and I think the hardest part of this week was dealing with this frustration. I felt like I'd let the team down, which to me, was a big problem. Although the talk went very well, it was annoying that I couldn't contribute to this.
 
