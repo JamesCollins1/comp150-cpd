@@ -4,7 +4,7 @@
 
 ### Week 1
 
-During this week I found my biggest problems occured in the group project. The main problems were getting both myself and the team on the whole back up to speed with the devlopment of Nebula Knights.
+During this week I found my biggest problems occured in the group project. The main problems were getting both myself and the team on the whole back up to speed with the development of Nebula Knights.
 
 ### Week 2
 
